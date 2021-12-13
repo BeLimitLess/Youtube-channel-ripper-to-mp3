@@ -2,7 +2,7 @@
 
 Want to download all videos from a channel in mp3?😏 Follow me!
 
-**Prerequisite** - Python and pytube module (`pip install pytube`)
+**Pre-requisite** - Python and pytube module (`pip install pytube`)
 
 First Grab all the links of video!
 You can also use Link Grabber Extension also
