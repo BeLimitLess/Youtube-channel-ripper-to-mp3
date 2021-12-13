@@ -1,6 +1,6 @@
 from pytube import YouTube
 import os
-file1 = open('myfile.txt', 'r')
+file1 = open('link.txt', 'r')
 Lines = file1.readlines()
 for line in Lines:
     yt = YouTube(str(line.strip()))
